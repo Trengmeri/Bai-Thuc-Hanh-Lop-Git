@@ -1,3 +1,4 @@
 base game
 prototype version
 assign gameplay-art
+bug001 fix
