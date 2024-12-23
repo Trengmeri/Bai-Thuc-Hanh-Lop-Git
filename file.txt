@@ -2,3 +2,6 @@ base game
 prototype version
 assign gameplay-art
 bug001 fix
+mainmenu, inventory, settings, credits, leaderboard
+assign animations
+fix bug002
