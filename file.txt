@@ -6,3 +6,4 @@ mainmenu, inventory, settings, credits, leaderboard
 assign animations
 fix bug002
 assign animations for characters
+add music and sound effect in gameplay
